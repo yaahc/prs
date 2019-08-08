@@ -1,0 +1,18 @@
+[package]
+name = "yaahc"
+version = "0.1.0"
+authors = ["Jane Lusby <jlusby@yaah.dev>"]
+license = "MIT"
+edition = "2018"
+readme = "README.md"
+repository = "https://github.com/yaahc/yaahc"
+homepage = "http://yaah.dev"
+documentation = "https://docs.rs/yaahc/0.1.0/yaahc"
+keywords = ["todo", "prideas"]
+description = """
+My personal notes and issues tracker
+
+Primarily for tracking my todolist and correlating issues im working on with other repos.
+"""
+
+[dependencies]
